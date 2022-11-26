@@ -1,4 +1,4 @@
-package dir
+package s2dir
 
 import (
 	"io"
